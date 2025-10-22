@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Justin!
 
-I’m **Justin**, a 4th year BS-IT Major in Networks student currently studying at **[Mindanao State University – Iligan Institute of Technology (MSU-IIT)](https://www.msuiit.edu.ph)**.  
+I’m **Justin**, a 4th year BS-IT student currently studying at **[Mindanao State University – Iligan Institute of Technology (MSU-IIT)](https://www.msuiit.edu.ph)**.  
 I’m passionate about **Cybersecurity** and **Ethical Hacking**, and I aim to build a strong foundation in **network and system security**.
 
 ---
